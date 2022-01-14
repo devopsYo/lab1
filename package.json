@@ -15,7 +15,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "printAll": "dir",
+    "createDir": "md test",
+    "copyToDir": "copy .\\src\\*.js .\\test" 
   },
   "eslintConfig": {
     "extends": [
