@@ -29,4 +29,20 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run printAll`
+
+להציג את כל התוכן של התיקיית הנוכחית 
+
+### `npm run createDir`
+
+ test בתוך התיקיית הנוכחית ליצור תיקיית בשם
+
+### `npm run copyToDir`
+
+test לתיקיית src להעתיק את כל התוכן של התיקיית 
+הוא אות שמור \
+  לקחת אותו כאות רגילcmd אני חייב לצרף אותו עוד אחד שאומר לpath ולכן כדי להכניס אותו ב
+
+
+
 
